@@ -1,1 +1,2 @@
-echo $dir
+#!/bin/bash
+pwd
